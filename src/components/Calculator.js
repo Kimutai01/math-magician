@@ -41,8 +41,8 @@ class Calculator extends Component {
             <li id="plus" className="key action">
               &#x2b;
             </li>
-            <li className="zero">0</li>
-            <li className="decimal">&#8901;</li>
+            <li className="key zero">0</li>
+            <li className="key decimal">&#8901;</li>
             <li id="equals" className="key action">
               &#61;
             </li>
