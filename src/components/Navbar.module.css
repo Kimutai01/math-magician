@@ -1,4 +1,4 @@
-Nav {
+nav {
   display: flex;
   justify-content: space-around;
   align-items: center;
@@ -6,6 +6,7 @@ Nav {
   background-color: rgb(31, 45, 50);
   color: wheat;
 }
+
 .navLinks {
   width: 50%;
   display: flex;
@@ -13,19 +14,24 @@ Nav {
   align-items: center;
   list-style: none;
 }
+
 .navLinks li {
   cursor: pointer;
 }
+
 .navLinks li:hover {
   color: aliceblue;
 }
+
 .home-header {
   color: black;
 }
+
 .navStyle {
   text-decoration: none;
   color: aliceblue;
 }
+
 .navStyle:hover {
   color: wheat;
 }
