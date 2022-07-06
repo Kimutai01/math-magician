@@ -64,3 +64,13 @@ body {
   grid-column: 1 / span 2;
   padding: 11px;
 }
+
+.calcDiv {
+  display: flex;
+}
+
+.title {
+  color: aliceblue;
+  margin-top: 140px;
+  margin-left: 30px;
+}
