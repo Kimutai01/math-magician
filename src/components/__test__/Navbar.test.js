@@ -6,7 +6,7 @@ it('testing the navbar', () => {
   const TREE = renderer.create(
     <Router>
       <Nav />
-    </Router>
+    </Router>,
   ).toJSON;
   expect(TREE).toMatchSnapshot();
 });
