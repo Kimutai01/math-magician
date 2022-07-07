@@ -4,7 +4,8 @@ An application that allows a user to do various calculations like addition, subt
 
 ## Live Demo
 
-[Live Demo Link]()
+[Live Demo Link heroku](https://calculatapp.herokuapp.com/)
+[Live Demo Link netlify](https://venerable-stardust-eae3e4.netlify.app/calculator)
 
 ![screenshot](./calc.png)
 
